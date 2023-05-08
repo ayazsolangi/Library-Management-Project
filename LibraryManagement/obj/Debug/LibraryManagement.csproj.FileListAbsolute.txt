@@ -1,0 +1,88 @@
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Addnewbook.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Addnewstudent.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Dashboard.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Loginform.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.studentcardprint.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.viewstudent.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.pdb
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.viewbooks.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.issuebook.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.BookDetails.resources
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.exe.manifest
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.application
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.exe.manifest
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.application
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LMS.mdf
+D:\Projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LMS_log.ldf
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.exe
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.pdb
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LMS.mdf
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LMS_log.ldf
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.exe.manifest
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.application
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.exe
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\bin\Debug\LibraryManagement.pdb
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Addnewbook.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Addnewstudent.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.BookDetails.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Dashboard.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Loginform.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.issuebook.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.studentcardprint.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.viewbooks.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.viewstudent.resources
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.exe.manifest
+G:\C# projects\C- Sharp\LibraryManagement\Backup\LibraryManagement\obj\Debug\LibraryManagement.application
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.exe
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.pdb
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LMS.mdf
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LMS_log.ldf
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.exe.manifest
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.application
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.exe
+G:\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.pdb
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Addnewbook.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Addnewstudent.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.BookDetails.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Dashboard.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Loginform.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.issuebook.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.studentcardprint.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.viewbooks.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.viewstudent.resources
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.exe.manifest
+G:\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.application
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.exe
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.pdb
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LMS.mdf
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LMS_log.ldf
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.exe.manifest
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.application
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.exe
+G:\C#\C# projects\Bhutti\LibraryManagement\bin\Debug\LibraryManagement.pdb
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Addnewbook.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Addnewstudent.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.BookDetails.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Dashboard.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Loginform.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.issuebook.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.studentcardprint.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.viewbooks.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.viewstudent.resources
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.exe.manifest
+G:\C#\C# projects\Bhutti\LibraryManagement\obj\Debug\LibraryManagement.application
